@@ -1,0 +1,11 @@
+# Tạo tự động bởi Syndicator vì repo chưa có cấu hình. Bạn sửa thoải mái, hệ thống không ghi đè file này.
+title: "VPS"
+lang: vi-VN
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+# Menu đầu trang chỉ có trang giới thiệu thương hiệu (nếu đã đăng), để README không hiện lên menu.
+header_pages:
+  - about-vps.md
