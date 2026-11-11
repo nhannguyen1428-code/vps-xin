@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Dùng VPS để vận hành hệ thống CSKH doanh nghiệp B2B ổn định và bảo mật](dung-vps-de-van-hanh-he-thong-cskh-doanh-nghiep-b2b-on-dinh-va-bao-mat.md)
 
 ## Getting Started
 
@@ -25,4 +26,3 @@
 * [Reference](reference/reference.md)
 * [Configuration](reference/configuration.md)
 * [Glossary](reference/glossary.md)
-* [Dùng VPS để vận hành hệ thống CSKH doanh nghiệp B2B ổn định và bảo mật](dung-vps-de-van-hanh-he-thong-cskh-doanh-nghiep-b2b-on-dinh-va-bao-mat.md)
