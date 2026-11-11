@@ -9,3 +9,12 @@ plugins:
 # Menu đầu trang chỉ có trang giới thiệu thương hiệu (nếu đã đăng), để README không hiện lên menu.
 header_pages:
   - about-vps.md
+# GitBook dùng chung repo này: không đưa thư mục của GitBook lên website.
+# Thẻ riêng của GitBook ({% hint %}…) làm hỏng bản dựng của GitHub Pages (gặp 2026-11-11).
+exclude:
+  - api-reference
+  - changelog
+  - documentation
+  - help-center
+  - home
+  - gitbook-docs.yaml
