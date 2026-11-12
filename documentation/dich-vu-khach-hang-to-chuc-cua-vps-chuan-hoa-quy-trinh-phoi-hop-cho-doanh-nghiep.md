@@ -74,7 +74,7 @@ Trước khi bắt đầu sử dụng dịch vụ khách hàng tổ chức của
 
 Về bảo mật, doanh nghiệp cần lưu ý không chia sẻ thông tin đăng nhập qua kênh không chính thức, giới hạn số người nhận chứng từ ở mức tối thiểu, và thường xuyên rà soát danh sách người có quyền truy cập tài khoản. Thông tin chi tiết về dịch vụ có thể được tìm hiểu thêm [tại đây](https://vps.com.vn/). Nếu cần so sánh với dịch vụ dành cho cá nhân, có thể xem tài liệu riêng về Dịch vụ Khách hàng Cá nhân.
 
-https://docs.google.com/document/d/1hNgOa0mXzLCzn8GhEKia7gyyVjqgj2bgNgAkc-dBylI/edit?usp=drivesdk
+[https://docs.google.com/document/d/1hNgOa0mXzLCzn8GhEKia7gyyVjqgj2bgNgAkc-dBylI/edit?usp=drivesdk](https://docs.google.com/document/d/1hNgOa0mXzLCzn8GhEKia7gyyVjqgj2bgNgAkc-dBylI/edit?usp=drivesdk)
 
 ## Kết: Đo chất lượng bằng độ ổn định của quy trình
 
